@@ -6,3 +6,4 @@ Useful resources I came across
 - Current State of NLP research: http://nlpprogress.com/english/sentiment_analysis.html
 - https://github.com/ayushoriginal/Sentiment-Analysis-Twitter
 - Easy REST API, api for your data: https://oygen87.github.io/ezmock/
+- Papers with code: https://paperswithcode.com/task/sentiment-analysis
