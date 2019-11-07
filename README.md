@@ -7,3 +7,4 @@ Useful resources I came across
 - https://github.com/ayushoriginal/Sentiment-Analysis-Twitter
 - Easy REST API, api for your data: https://oygen87.github.io/ezmock/
 - Papers with code: https://paperswithcode.com/task/sentiment-analysis
+- interesting video: https://www.youtube.com/watch?v=wNBaNhvL4pg
