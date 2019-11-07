@@ -7,5 +7,5 @@ Useful resources I came across
 - https://github.com/ayushoriginal/Sentiment-Analysis-Twitter
 - Easy REST API, api for your data: https://oygen87.github.io/ezmock/
 - Papers with code: https://paperswithcode.com/task/sentiment-analysis
-- interesting video: https://www.youtube.com/watch?v=wNBaNhvL4pg
+- NLP 1D convolution video: https://www.youtube.com/watch?v=wNBaNhvL4pg
 - Doc2Vec: https://medium.com/wisio/a-gentle-introduction-to-doc2vec-db3e8c0cce5e
