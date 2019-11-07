@@ -9,3 +9,4 @@ Useful resources I came across
 - Papers with code: https://paperswithcode.com/task/sentiment-analysis
 - NLP 1D convolution video: https://www.youtube.com/watch?v=wNBaNhvL4pg
 - Doc2Vec: https://medium.com/wisio/a-gentle-introduction-to-doc2vec-db3e8c0cce5e
+- Doc2Vec (fun PyData video): https://www.youtube.com/watch?v=zFScws0mb7M
