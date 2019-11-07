@@ -4,6 +4,7 @@ Useful resources I came across
 - super helpful collection: https://github.com/graykode/nlp-tutorial
 - Current State of NLP research: http://nlpprogress.com/english/sentiment_analysis.html
 - NLTK book (best): https://www.nltk.org/book/
+- Sentiment Analysis in NLTK (code+blog): https://blog.chapagain.com.np/python-nltk-twitter-sentiment-analysis-natural-language-processing-nlp/
 - https://github.com/abdulfatir/twitter-sentiment-analysis/blob/master/docs/report.pdf
 - Useful ovservation of natural language: https://whatis.techtarget.com/definition/Zipfs-Law
 - https://github.com/ayushoriginal/Sentiment-Analysis-Twitter
