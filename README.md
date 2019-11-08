@@ -14,6 +14,8 @@ Useful resources I came across
 - Doc2Vec: https://medium.com/wisio/a-gentle-introduction-to-doc2vec-db3e8c0cce5e
 - Doc2Vec (fun PyData video): https://www.youtube.com/watch?v=zFScws0mb7M
 
+## Transformers (BERT, GPT)
+- very comprehensive: https://github.com/huggingface/transformers
 - play with GPT model: https://gpt2.apps.allenai.org/?text=Joel%20is
 - Illustrated articles on Transformer: http://jalammar.github.io/illustrated-transformer/
 - The Illustrated GPT-2 (Visualizing Transformer Language Models): http://jalammar.github.io/illustrated-gpt2/
