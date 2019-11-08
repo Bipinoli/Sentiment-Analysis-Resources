@@ -15,6 +15,7 @@ Useful resources I came across
 - Doc2Vec (fun PyData video): https://www.youtube.com/watch?v=zFScws0mb7M
 
 ## Transformers (BERT, GPT)
+- must read to understand BERT: https://mlexplained.com/2019/01/07/paper-dissected-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding-explained/
 - very comprehensive: https://github.com/huggingface/transformers
 - play with GPT model: https://gpt2.apps.allenai.org/?text=Joel%20is
 - Illustrated articles on Transformer: http://jalammar.github.io/illustrated-transformer/
