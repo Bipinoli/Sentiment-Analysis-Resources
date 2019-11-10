@@ -17,6 +17,7 @@ Useful resources I came across
 ## Transformers (BERT, GPT)
 - must read to understand BERT: https://mlexplained.com/2019/01/07/paper-dissected-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding-explained/
 - very comprehensive: https://github.com/huggingface/transformers
+- Best practice NLP (BERT transfer learning): https://towardsdatascience.com/best-practices-for-nlp-classification-in-tensorflow-2-0-a5a3d43b7b73
 - play with GPT model: https://gpt2.apps.allenai.org/?text=Joel%20is
 - Illustrated articles on Transformer: http://jalammar.github.io/illustrated-transformer/
 - The Illustrated GPT-2 (Visualizing Transformer Language Models): http://jalammar.github.io/illustrated-gpt2/
