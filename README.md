@@ -18,6 +18,7 @@ Useful resources I came across
 - https://www.aclweb.org/anthology/W14-5905.pdf
 - https://sci-hub.tw/10.1007/978-3-642-28604-9_39
 - https://github.com/AkshitaJha/IRE
+- Key phrase Extraction: https://github.com/boudinfl/pke
 
 
 ## Transformers (BERT, GPT)
