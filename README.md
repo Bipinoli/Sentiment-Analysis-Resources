@@ -16,6 +16,7 @@ Useful resources I came across
 - http://www.dialog-21.ru/media/1111/blinovpdkotelnikovev.pdf
 - https://www.aclweb.org/anthology/W14-5905.pdf
 - https://sci-hub.tw/10.1007/978-3-642-28604-9_39
+- https://github.com/AkshitaJha/IRE
 
 
 ## Transformers (BERT, GPT)
