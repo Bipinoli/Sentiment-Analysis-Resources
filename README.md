@@ -13,8 +13,10 @@ Useful resources I came across
 - NLP 1D convolution video: https://www.youtube.com/watch?v=wNBaNhvL4pg
 - Doc2Vec: https://medium.com/wisio/a-gentle-introduction-to-doc2vec-db3e8c0cce5e
 - Doc2Vec (fun PyData video): https://www.youtube.com/watch?v=zFScws0mb7M
-
 - http://www.dialog-21.ru/media/1111/blinovpdkotelnikovev.pdf
+- https://www.aclweb.org/anthology/W14-5905.pdf
+- https://sci-hub.tw/10.1007/978-3-642-28604-9_39
+
 
 ## Transformers (BERT, GPT)
 - must read to understand BERT: https://mlexplained.com/2019/01/07/paper-dissected-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding-explained/
