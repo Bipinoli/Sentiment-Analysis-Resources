@@ -5,6 +5,7 @@ Useful resources I came across
 - Current State of NLP research: http://nlpprogress.com/english/sentiment_analysis.html
 - Coreference resolution(NeuralCoref): https://medium.com/huggingface/state-of-the-art-neural-coreference-resolution-for-chatbots-3302365dcf30
 - NLTK book (best): https://www.nltk.org/book/
+- Single document unsupervised keyword extraction(YAKE): https://github.com/LIAAD/yake
 - Sentiment Analysis in NLTK (code+blog): https://blog.chapagain.com.np/python-nltk-twitter-sentiment-analysis-natural-language-processing-nlp/
 - https://github.com/abdulfatir/twitter-sentiment-analysis/blob/master/docs/report.pdf
 - Useful ovservation of natural language: https://whatis.techtarget.com/definition/Zipfs-Law
