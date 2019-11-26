@@ -21,6 +21,7 @@ Useful resources I came across
 - https://github.com/AkshitaJha/IRE
 - Key phrase Extraction: https://github.com/boudinfl/pke
 - sentence simplification: https://github.com/sebastianruder/NLP-progress/blob/master/english/simplification.md
+- Apache Joshua Sentence simplification and translation: https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=65142863
 
 
 ## Transformers (BERT, GPT)
