@@ -20,6 +20,7 @@ Useful resources I came across
 - https://sci-hub.tw/10.1007/978-3-642-28604-9_39
 - https://github.com/AkshitaJha/IRE
 - Key phrase Extraction: https://github.com/boudinfl/pke
+- sentence simplification: https://github.com/sebastianruder/NLP-progress/blob/master/english/simplification.md
 
 
 ## Transformers (BERT, GPT)
