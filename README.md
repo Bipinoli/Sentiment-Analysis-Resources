@@ -22,7 +22,8 @@ Useful resources I came across
 - Key phrase Extraction: https://github.com/boudinfl/pke
 - sentence simplification: https://github.com/sebastianruder/NLP-progress/blob/master/english/simplification.md
 - Apache Joshua Sentence simplification and translation: https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=65142863
-
+- https://nlp.stanford.edu/~sebschu/pubs/schuster-manning-lrec2016.pdf
+- Paper for sentence simplification(good algorithm): http://www.mecs-press.org/ijmecs/ijmecs-v10-n1/IJMECS-V10-N1-6.pdf 
 
 ## Transformers (BERT, GPT)
 - must read to understand BERT: https://mlexplained.com/2019/01/07/paper-dissected-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding-explained/
