@@ -25,6 +25,7 @@ Useful resources I came across
 - https://nlp.stanford.edu/~sebschu/pubs/schuster-manning-lrec2016.pdf
 - Paper for sentence simplification(good algorithm): http://www.mecs-press.org/ijmecs/ijmecs-v10-n1/IJMECS-V10-N1-6.pdf 
 - Aspect-Based Sentiment Analysis on the Web using Rhetorical Structure Theory: https://www.sfu.ca/~mtaboada/docs/publications/Hoogervorst_etal_ICWE_2016.pdf
+- Natural language processors: https://github.com/clulab/processors
 
 
 ## Semantic Sentence Simplification
