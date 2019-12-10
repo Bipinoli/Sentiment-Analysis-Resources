@@ -24,6 +24,8 @@ Useful resources I came across
 - Apache Joshua Sentence simplification and translation: https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=65142863
 - https://nlp.stanford.edu/~sebschu/pubs/schuster-manning-lrec2016.pdf
 - Paper for sentence simplification(good algorithm): http://www.mecs-press.org/ijmecs/ijmecs-v10-n1/IJMECS-V10-N1-6.pdf 
+- Aspect-Based Sentiment Analysis on the Web using Rhetorical Structure Theory: https://www.sfu.ca/~mtaboada/docs/publications/Hoogervorst_etal_ICWE_2016.pdf
+
 
 ## Semantic Sentence Simplification
 - Using Discourse Structure Representation: https://www.aclweb.org/anthology/P18-1040/
@@ -33,6 +35,8 @@ Useful resources I came across
 - must read to understand BERT: https://mlexplained.com/2019/01/07/paper-dissected-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding-explained/
 - very comprehensive: https://github.com/huggingface/transformers
 - Best practice NLP (BERT transfer learning): https://towardsdatascience.com/best-practices-for-nlp-classification-in-tensorflow-2-0-a5a3d43b7b73
+
+
 - play with GPT model: https://gpt2.apps.allenai.org/?text=Joel%20is
 - Illustrated articles on Transformer: http://jalammar.github.io/illustrated-transformer/
 - The Illustrated GPT-2 (Visualizing Transformer Language Models): http://jalammar.github.io/illustrated-gpt2/
