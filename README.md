@@ -37,7 +37,7 @@ Useful resources I came across
 - very comprehensive: https://github.com/huggingface/transformers
 - Best practice NLP (BERT transfer learning): https://towardsdatascience.com/best-practices-for-nlp-classification-in-tensorflow-2-0-a5a3d43b7b73
 - FlairNLP (another NLP framework like huggingfac): https://github.com/flairNLP/flair
-- AdaptNLP (built on top of HuggingFace and Flair trying to make the life easier): https://github.com/Novetta/adaptnlp
+- **AdaptNLP (built on top of HuggingFace and Flair trying to make the life easier)**: https://github.com/Novetta/adaptnlp
 
 
 - play with GPT model: https://gpt2.apps.allenai.org/?text=Joel%20is
